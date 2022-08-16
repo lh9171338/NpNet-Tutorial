@@ -1,9 +1,9 @@
-[<img height="23" src="https://github.com/lh9171338/Outline/blob/master/icon.jpg"/>](https://github.com/lh9171338/Outline) NpNet Tutorial
+[<img height="23" src="https://raw.githubusercontent.com/lh9171338/Outline/master/icon.jpg"/>](https://github.com/lh9171338/Outline) NpNet Tutorial
 ===
 
 # 1. Introduction
 
-This repository is NpNet Tutorials.
+This repository is [npnet](https://github.com/MorvanZhou/npnet) tutorials.
 
 # 2. More Resources
 
